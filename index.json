@@ -1,0 +1,11 @@
+{
+  "org": "graphql-python",
+  "repo": "graphene-sqlalchemy",
+  "versions": [
+    {
+      "commit": "4ea6ee819600d65ad784c783a68321105a643d76",
+      "tag": "",
+      "parsed_at": "2026-10-12T02:02:01.452887+00:00"
+    }
+  ]
+}
